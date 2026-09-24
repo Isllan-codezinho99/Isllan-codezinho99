@@ -19,9 +19,11 @@ _*Fim*_
 
 ```cpp
 #include <iostream>
+#include <string>
 
 int main() {
-  std::cout << "Você é especial?\n";
+ std::string especial;
+ std::cout << "Você é especial?\n";
   std::cout << "Não.......\n";
 
   if (especial == "não") {
@@ -32,4 +34,4 @@ int main() {
   // Feito de isllan para <Quem leu>
 }
 ```
-# Sim, as chances de eu errar esse código ai é grande
+*Isso, é apenas um exemplo, não funciona.*
