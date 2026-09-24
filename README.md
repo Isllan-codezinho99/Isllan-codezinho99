@@ -17,7 +17,7 @@
 *E por fim, até a proxima, e digo uma coisa > As mais velhas sempre são as melhores(Ironia e frase minha que eu sempre uso quando me pergutam qual é meu tipo de me mulher)*
 _*Fim*_
 
-´´´cpp
+```cpp
 #include <iostream>
 
 int main() {
@@ -30,4 +30,4 @@ int main() {
 
   return 0;
   // Feito de isllan para <Quem leu>
-}´´´
+}```
