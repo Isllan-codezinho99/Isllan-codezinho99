@@ -30,4 +30,6 @@ int main() {
 
   return 0;
   // Feito de isllan para <Quem leu>
-}```
+}
+```
+# Sim, as chances de eu errar esse código ai é grande
