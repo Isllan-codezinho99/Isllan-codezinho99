@@ -30,5 +30,4 @@ int main() {
 
   return 0;
   // Feito de isllan para <Quem leu>
-}
-´´´
+}´´´
