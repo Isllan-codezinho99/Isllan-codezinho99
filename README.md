@@ -40,5 +40,5 @@ int main() {
 *Toda vez que eu usar: "Uptade: <algo>" quer dizer que eu peguei o texto e atualizei ele, se for um bloco, será: "Update: {bloco em si}"*
 *E sim, eu não sei apontuar as palavras, não é preguiça, porque preguiça voce so tem se souber fazer. é que eu não tenho costume de pontuar tais palavras.*
 *Talvez eu reatualize isso aqui.*
-*E sim, meu Vs community deu um erro desgramado e eu tive que fazer umas doideiras para ele voltar*
+*E sim, meu Vs community deu um erro desgramado e eu tive que fazer umas doideiras para ele voltar.*
 *Até a proxima!*
