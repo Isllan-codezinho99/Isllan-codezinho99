@@ -2,6 +2,8 @@
 *Ola, meu nome é Isllan, e eu comecei a estudar linguagens de programação, as duas que eu estudo são:*
 *C++ > Para criar sistemas ultra rapidos ou jogos AAA*
 *C# > Para criar aplicativos de janelas simples para Windows*
+*Update: Sai desse treco do C#, sé loko, pulei pro Java.*
+*Update: Java é bem melhor que C#(opnião)*
 *E não, eu não sou um gênio da programação, não consigo nem usar um template sem consultar o google ou gemini*
 
 # Descrição
@@ -35,3 +37,8 @@ int main() {
 }
 ```
 *Isso, é apenas um exemplo, não funciona.*
+*Toda vez que eu usar: "Uptade: <algo>" quer dizer que eu peguei o texto e atualizei ele, se for um bloco, será: "Update: {bloco em si}"*
+*E sim, eu não sei apontuar as palavras, não é preguiça, porque preguiça voce so tem se souber fazer. é que eu não tenho costume de pontuar tais palavras.*
+*Talvez eu reatualize isso aqui.*
+*E sim, meu Vs community deu um erro desgramado e eu tive que fazer umas doideiras para ele voltar*
+*Até a proxima!*
