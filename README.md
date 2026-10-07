@@ -5,6 +5,7 @@
 *Update: Sai desse treco do C#, sé loko, pulei pro Java.*
 *Update: Java é bem melhor que C#(opnião)*
 *E não, eu não sou um gênio da programação, não consigo nem usar um template sem consultar o google ou gemini*
+Update: Desistir do Java, Red Hat nao deixa eu estudar.
 
 # Descrição
 *Nome: Isllan Juan(Lendario Zetta)*
