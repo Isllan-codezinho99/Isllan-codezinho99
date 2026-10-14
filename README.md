@@ -43,3 +43,5 @@ int main() {
 *Talvez eu reatualize isso aqui.*
 *E sim, meu Vs community deu um erro desgramado e eu tive que fazer umas doideiras para ele voltar.*
 *Até a proxima!*
+
+*Aviso(Apos muito tempo): Que se foda programação, vou virar igual esses adolescentes ai. Programação não é para mim.*
